@@ -1,3 +1,16 @@
 html {
     background-color: lightcyan;
 }
+
+.square-lis t{
+    list-style-type: square;
+}
+
+.lettered-list {
+    list-style-type: upper-alpha;
+}
+
+.nav {
+    list-style-type: none;
+}
+

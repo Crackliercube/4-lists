@@ -12,5 +12,8 @@ html {
 
 .nav {
     list-style-type: none;
+    background-color: dodgerblue;
+    padding: 30px;
+    margin-bottom: 100px;
 }
 
